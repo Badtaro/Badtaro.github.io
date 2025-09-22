@@ -38,9 +38,12 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "Over 300"
+        - statistic: "Our last tournament"
           description: |
-            Players in our last tournament
+  
+        - statistic: "300+"
+          description: |
+            Players
         - statistic: "4k+"
           description: |
             Amount of Games
@@ -76,7 +79,7 @@ sections:
             text: Read the rules
             url: https://docs.google.com/document/d/1CrKrqJZvPQ4LJ9Hh12LC82ITRG05qGz3F3r-pF_svvU/edit?usp=sharing
         - title: Other Rewards
-          text: Join our large community on Discord - ask questions and get live responses
+          text: Gifted by Riichi City
           feature_icon: bolt
           features:
             - Placement based rewards
