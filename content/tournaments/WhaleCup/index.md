@@ -15,7 +15,7 @@ WhaleCupPart2-2025.png
 
 {WhaleCupPart2-2025.png}
 
-{{<WhaleCupPart2-2025.png>}}
+
 
 # **Welcome to the Whale Cup!**
 ## **The Whale Cup is a mahjong tournament to find the best tile slinger in an open format. All are welcome but only the strong and lucky will survive. This year we are sponsored by Riichi City, which I am super grateful for, they contributed to the prize pool and offered a ton of in game rewards. And didn't threaten to ban me for using a bot to run my tournament... Anyways!**
