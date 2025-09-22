@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: The Latest Upcoming Tournament
-      text: The Whale Cup and Whale's Winter Weekend Wonderland are mahjong tournaments to find the best tile slinger in an open format. All are welcome but only the strong and lucky will survive. Thankfully Riichi City sponsors us and helps contribute to the prize pool, which I am super grateful for since their API is grand.. and they don't threaten to ban me for using said API like some other clients.<br /> <br />Anyways! Feel free to donate to the next tournament prize pool or ignore this and simply register, but please read the rules.
+      text: <strong>The Whale Cup and Whale's Winter Weekend Wonderland are mahjong tournaments to find the best tile slinger in an open format. All are welcome but only the strong and lucky will survive. Thankfully Riichi City sponsors us and helps contribute to the prize pool, which I am super grateful for since their API is grand.. and they don't threaten to ban me for using said API like some other clients.<br /> <br />Anyways! Feel free to donate to the next tournament prize pool or ignore this and simply register, but please read the rules.</strong>
       primary_action:
         text: Donation to Prize Pool
         url: https://ko-fi.com/overlordwhale 
@@ -56,7 +56,6 @@ sections:
         - statistic: "9k+"
           description: |
             Amount of Riichi's
-            |
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
