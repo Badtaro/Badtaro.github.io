@@ -1,40 +1,16 @@
 ---
-title: 'Home'
-date: 2023-10-24
-type: landing
-
-design:
-  # Default section spacing
-  spacing: "6rem"
+title: Whale Cup
+summary: The Main Tournament we host around here. A 2 weekend event with time blocks and a big cash prize.
+date: 2025-09-22
+authors:
+  - admin
+tags:
+  - Whale Cup
+  - Markdown
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 sections:
-  - block: hero
-    content:
-      title: The Latest Upcoming Tournament
-      text: text
-      primary_action:
-        text: List of Tournaments
-        url: /tournaments/
-        icon: sparkles
-      secondary_action:
-        text: Just take me to the Discord
-        url: https://discord.gg/9qt336srFz
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
-        color: "navy"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: WhaleShutterStock.png
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
   - block: stats
     content:
       items:
@@ -60,7 +36,7 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: cta-image-paragraph
-    id: current tournament
+    id: The Whale Cup
     content:
       items:
         - title: The Whale Cup
@@ -90,4 +66,6 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
+  
 ---
+

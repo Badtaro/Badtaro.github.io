@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
-date: 2023-12-01
+date: 1993-06-02
 share: false
 ---
 
-Add your company legal terms here...
+Legally, whales are below the law because of sea levels and all that jazz. 

@@ -1,7 +1,7 @@
 ---
 title: Privacy
-date: 2023-12-01
+date: 1993-06-02
 share: false
 ---
 
-Add your company privacy policy here...
+Whales are private animals and as such I won't share you personal information because I am not scraping any data from you to begin with.
