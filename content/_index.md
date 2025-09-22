@@ -41,21 +41,22 @@ sections:
         - statistic: "Our last tournament"
           description: |
   
-        - statistic: "300+"
-          description: |
-            Players
-        - statistic: "4k+"
-          description: |
-            Amount of Games
         - statistic: "7k+"
           description: |
             Amount of Deal-ins
+        - statistic: "4k+"
+          description: |
+            Amount of Games
+        - statistic: "300+"
+          description: |
+            Players
         - statistic: "16"
           description: |
             Amount of Yakuman's
         - statistic: "9k+"
           description: |
             Amount of Riichi's
+            |
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -80,7 +81,7 @@ sections:
             url: https://docs.google.com/document/d/1CrKrqJZvPQ4LJ9Hh12LC82ITRG05qGz3F3r-pF_svvU/edit?usp=sharing
         - title: Other Rewards
           text: Gifted by Riichi City
-          feature_icon: bolt
+          feature_icon: sparkles
           features:
             - Placement based rewards
             - Play just 1 game for the tileback and playmat
@@ -90,6 +91,15 @@ sections:
           button:
             text: Register at the Discord
             url: https://discord.gg/9qt336srFz
+        - title: Schedule 
+          text: Dates and the such
+          feature_icon: bolt
+          features:
+            - Two separate time blocks
+            - Your placement in qualifiers will help influence your slot
+            - I really like three's
+          # Upload image to `assets/media/` and reference the filename here
+          image: Qualifiers2025.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
