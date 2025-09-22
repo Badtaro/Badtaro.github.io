@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: Upcoming Tourney
-    url: /#current tournament
+    url: /#currenttournament
     weight: 20
   - name: Tournament List
     url: tournaments/

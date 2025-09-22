@@ -6,9 +6,10 @@ authors:
   - admin
 tags:
   - Whale Cup
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  
+design:
+  # Default section spacing
+  spacing: "6rem"
 
 sections:
   - block: stats
@@ -66,6 +67,5 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  
 ---
 
