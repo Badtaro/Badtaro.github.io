@@ -4,92 +4,33 @@ summary: The Main Tournament we host around here. A 2 weekend event with time bl
 date: 2025-09-22
 tags:
   - Whale Cup
- 
-design:
-  # Default section spacing
-  spacing: "6rem"
-
-sections:
-  - block: hero
-    content:
-      title: The Latest Upcoming Tournament
-      text: The Whale Cup and Whale's Winter Weekend Wonderland are mahjong tournaments to find the best tile slinger in an open format. All are welcome but only the strong and lucky will survive. Thankfully Riichi City sponsors us and helps contribute to the prize pool, which I am super grateful for since their API is grand.. and they don't threaten to ban me for using said API like some other clients.<br /> \Anyways! Feel free to donate to the next tournament prize pool or ignore this and simply register, but please read the rules.
-      primary_action:
-        text: Donation to Prize Pool
-        url: https://ko-fi.com/overlordwhale 
-        icon: sparkles
-      secondary_action:
-        text: Just take me to the Discord
-        url: https://discord.gg/9qt336srFz
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
-        color: "navy"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: WhaleShutterStock.png
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
-  - block: stats
-    content:
-      items:
-        - statistic: "Over 300"
-          description: |
-            Players in our last tournament
-        - statistic: "4k+"
-          description: |
-            Amount of Games
-        - statistic: "7k+"
-          description: |
-            Amount of Deal-ins
-        - statistic: "16"
-          description: |
-            Amount of Yakuman's
-        - statistic: "9k+"
-          description: |
-            Amount of Riichi's
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-  - block: cta-image-paragraph
-    id: currenttournament
-    content:
-      items:
-        - title: The Whale Cup
-          text: Paid by Riichi City and Whale's money
-          feature_icon: check
-          features:
-            - A no entry fee tournament
-            - Incredibly easy registeration process 
-            - All skill levels welcomed!
-          # Upload image to `assets/media/` and reference the filename here
-          image: WhaleCupPart1-2025.png
-          button:
-            text: Read the rules
-            url: https://docs.google.com/document/d/1CrKrqJZvPQ4LJ9Hh12LC82ITRG05qGz3F3r-pF_svvU/edit?usp=sharing
-        - title: Other Rewards
-          text: Join our large community on Discord - ask questions and get live responses
-          feature_icon: bolt
-          features:
-            - Placement based rewards
-            - Play just 1 game for the tileback and playmat
-            - I like writing in three's
-          # Upload image to `assets/media/` and reference the filename here
-          image: WhaleCupPart2-2025.png
-          button:
-            text: Register at the Discord
-            url: https://discord.gg/9qt336srFz
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
 ---
+## Latest Whale Cup Promotion Video:
+
+{{< [youtube D2vj0WcvH5c](https://www.youtube.com/watch?v=k52DdnVKDfk) >}}
+
+WhaleCupPart2-2025.png
+
+{{WhaleCupPart2-2025.png}}
+
+{WhaleCupPart2-2025.png}
+
+{{<WhaleCupPart2-2025.png>}}
+
+# **Welcome to the Whale Cup!**
+## **The Whale Cup is a mahjong tournament to find the best tile slinger in an open format. All are welcome but only the strong and lucky will survive. This year we are sponsored by Riichi City, which I am super grateful for, they contributed to the prize pool and offered a ton of in game rewards. And didn't threaten to ban me for using a bot to run my tournament... Anyways!**
+- ## 300 person cap on participants
+- ## No Entry fee
+- ## Only 64 can pass the qualifiers
+- ## Two different time blocks until top 8
+- ## Prize Pool is subject to **increase**
+## The first weekend will act as a qualifier and will be omitted if we have under 64 contestants and increased to top 128 if we have over 200 active entries.  2 Additional games will occur on the 23rd if that occurs
+
+## The second weekend will have two blocks, A and B. If you stated a preference on block you will be sorted into said preference depending on your score in the qualifier. No preference entries will be put in whatever is the gap. 
+### Matcherino donation page to help me not lose so much money is [here](https://matcherino.com/tournaments/144130)
+### Ko-fi link if you prefer that for some reason is located [here](https://ko-fi.com/overlordwhale)
+### The full ruleset is located [here](https://docs.google.com/document/d/1CrKrqJZvPQ4LJ9Hh12LC82ITRG05qGz3F3r-pF_svvU/edit?usp=sharing)
+
+### For more info and questions, visit the [Discord](https://discord.gg/9qt336srFz)
+
+### Streamed on [twitch.tv/OverlordWhale](https://twitch.tv/overlordwhale)
