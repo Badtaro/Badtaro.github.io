@@ -7,7 +7,7 @@ tags:
 ---
 ## Latest Whale Cup Promotion Video:
 
-{{< [youtube D2vj0WcvH5c](https://www.youtube.com/watch?v=k52DdnVKDfk) >}}
+{{<https://www.youtube.com/watch?v=k52DdnVKDfk>}}
 
 WhaleCupPart2-2025.png
 
