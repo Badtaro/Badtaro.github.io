@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Tournament List
 view: card
 ---

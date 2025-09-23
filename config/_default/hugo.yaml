@@ -18,7 +18,7 @@ cascade:
     pager: true
     editable: true
     hide_date: true
-    show_date_updated: true
+    show_date_updated: false
     reading_time: false
     commentable: false
     show_related: false
