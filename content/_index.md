@@ -29,7 +29,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: WhaleShutterStock.png
+          filename: shuttershockDarker.png
           filters:
             brightness: 0.8
           size: cover
