@@ -71,7 +71,7 @@ sections:
             - Only for those who make it past qualifiers
             - May be deleted yearly to keep prestige 
           # Upload image to `assets/media/` and reference the filename here
-          image: Qualifiers2026.png
+          image: WhaleCupPart3-2026.png
         - title: Schedule 
           text: Dates and the such
           feature_icon: bolt
