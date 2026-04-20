@@ -66,31 +66,48 @@ sections:
     id: currenttournament
     content:
       items:
-        - title: Whale's Wonderful Winter Weekend
+        - title: The Whale Cup
           text: Paid by Riichi City and Whale's money
           feature_icon: check
           features:
             - A no entry fee tournament
             - Incredibly easy registeration process 
             - All skill levels welcomed!
-            - Also known as W4
           # Upload image to `assets/media/` and reference the filename here
-          image: W4.png
+          image: WhaleCupPart1-2026.png
           button:
             text: Read the rules
-            url: https://docs.google.com/document/d/1SMFn8D9_ZSOSWMXBCeZTg9LaFcMNmDP6lNlGF5dFOXU/edit?usp=sharing
+            url: https://docs.google.com/document/d/1CrKrqJZvPQ4LJ9Hh12LC82ITRG05qGz3F3r-pF_svvU/edit?usp=sharing
         - title: Other Rewards
           text: Gifted by Riichi City
           feature_icon: sparkles
           features:
             - Placement based rewards
-            - No tile back or playmat, that's main tourney only
+            - Play just 1 game for the tileback and playmat
             - I like writing in three's
           # Upload image to `assets/media/` and reference the filename here
-          image: W4Rewards.png
+          image: WhaleCupPart2-2026.png
           button:
             text: Register at the Discord
             url: https://discord.gg/9qt336srFz
+        - title: Final Rewards 
+          text: The title reard
+          feature_icon: sparkles
+          features:
+            - The first custom title from RC
+            - Only for those who make it past qualifiers
+            - May be deleted yearly to keep prestige 
+          # Upload image to `assets/media/` and reference the filename here
+          image: WhaleCupPart3-2026.png
+        - title: Schedule 
+          text: Dates and the such
+          feature_icon: bolt
+          features:
+            - Two separate time blocks
+            - Your placement in qualifiers will help influence your slot
+            - I really like three's
+          # Upload image to `assets/media/` and reference the filename here
+          image: Qualifiers2026.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
